@@ -1,0 +1,11 @@
+{
+  "name": "notes",
+  "scripts": {
+    "build": "vitepress build",
+    "dev": "vitepress dev"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "vitepress": "^0.22.3"
+  }
+}
